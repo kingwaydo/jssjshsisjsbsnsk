@@ -41,12 +41,4 @@
  	"Name": "SINGAPORE",
  	"Flag": "sg",
  	"vmess": "vmess://eyJhZGQiOiJvbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InM1NC5zbm9kZXMueHl6IiwiaWQiOiI0YjNmNjNhMy0zMmQ1LTNhZDMtYmJiNi01MWMwYzA2MGJjNTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGFuZWwiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4et8J+HsFNUUyBWSVAgMTAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
- }, {
- 	"Name": "SINGAPORE",
- 	"Flag": "sg",
- 	"vmess": "vmess://eyJhZGQiOiJ0cmlhbC5vbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InNnMi5qZWR2cG5waC5jZiIsImlkIjoiYmY3YzVhNTUtZTEzZi00ZmNmLTkwMDgtNjI5OGMwN2Y2YmZjIiwibmV0Ijoid3MiLCJwYXRoIjoiLzRhMDRhOTVhYzMwM3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7jwn4esIFNUU0ZBU1RTRVJWRVIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
- }, {
- 	"Name": "United States",
- 	"Flag": "us",
- 	"vmess": "vmess://eyJhZGQiOiJ0cmlhbC5vbmV0cnVzdC5jb20iLCJhaWQiOiIxIiwiaG9zdCI6InVzMy5qZWR2cG5waC5jZiIsImlkIjoiMjE1ZTNkNGUtYWNiZS00OWIwLWJkMGQtMzA4M2E0N2I5NzEwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RiOTdjMThhOGJhNzRld3NzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggU1RTRkFTVFNFUlZFUiAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
  }]
